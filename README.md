@@ -1,4 +1,4 @@
-Privacy Policy of /KrypProjects
+Privacy Policy of KrypProjects
 
 --------------------------------------------
 
@@ -13,7 +13,7 @@ We do not collect the following personal data from our user.
 
 How We Use Your Data:
 We don't use your personal data for the following purposes:
-Improving the Programs: We don't use your usage data to improve the performance and functionality of our programs and sending to /KrypProjects.
+Improving the Programs: We don't use your usage data to improve the performance and functionality of our programs and sending to KrypProjects.
 
 --------------------------------------------
 
